@@ -1,0 +1,23 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "battleship game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ta457/battleship.git"
+  },
+  "author": "ta457",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ta457/battleship/issues"
+  },
+  "homepage": "https://github.com/ta457/battleship#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
